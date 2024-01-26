@@ -1,4 +1,4 @@
-# Ultra simple maintenance mode for Wordpress
+# Ultra simple maintenance mode plugin for Wordpress
 
 1. Create a plugin folder to /plugins/ and upload the file there
 
